@@ -59,7 +59,7 @@ python train.py --query_docs_train 3 --query_docs_eval 3 --support_docs_train 1 
 ```
 ### Section 5.2 Sampling Training & Development Episodes
 
-Covered by parse_test() in src/data.py (lines 144-324)
+Covered by parse_episodes() in src/data.py (lines 144-324)
 
 Parameters for test sets are found in train.py (lines 70-71)
 

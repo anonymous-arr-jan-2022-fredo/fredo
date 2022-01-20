@@ -28,7 +28,7 @@ Covered in src/models/dlmnav_sbn.py
 
 Run using:
 ```
-python train.py --query_docs_train 3 --query_docs_eval 3 --support_docs_train 1 --support_docs_eval 1 --model dlmnav+sie+sbn --num_epochs 0
+python train.py --query_docs_train 3 --query_docs_eval 3 --support_docs_train 1 --support_docs_eval 1 --model dlmnav+sie+sbn --num_epochs 0 --use_markers False
 ```
 ### Section 5.1.2 DLMNAV
 
